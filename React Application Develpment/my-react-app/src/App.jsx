@@ -19,6 +19,7 @@ function App() {
         <hr />
 
         <Student1 name="Bunny" age="21" course="JAVA" />
+        <hr />
       </section>
     </main>
   )
